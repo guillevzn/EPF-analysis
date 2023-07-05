@@ -1,2 +1,2 @@
 # EPF-analysis
-EPF (encuesta de presupuestos familiares - household budget survey) analysis. Data from ine.es.
+EPF (encuesta de presupuestos familiares - household budget survey) analysis using Stata. Data from ine.es.
